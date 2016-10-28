@@ -1,0 +1,9 @@
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\bin\Debug\SRN_Client.exe.config
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\bin\Debug\SRN_Client.exe
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\bin\Debug\SRN_Client.pdb
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.csprojResolveAssemblyReference.cache
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.Form1.resources
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.Properties.Resources.resources
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.csproj.GenerateResource.Cache
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.exe
+c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.pdb
