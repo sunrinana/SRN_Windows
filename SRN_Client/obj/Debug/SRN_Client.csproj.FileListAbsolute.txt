@@ -7,3 +7,5 @@ c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\o
 c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.csproj.GenerateResource.Cache
 c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.exe
 c:\users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\obj\Debug\SRN_Client.pdb
+C:\Users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\ayh07\onedrive\문서\visual studio 15\Projects\SRN_Client\SRN_Client\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
